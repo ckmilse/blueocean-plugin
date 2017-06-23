@@ -27,6 +27,7 @@ import hudson.PluginWrapper;
 import io.jenkins.blueocean.service.embedded.BaseTest;
 import org.junit.Assert;
 import org.junit.Before;
+import org.junit.Assume;
 import org.junit.Test;
 
 import javax.servlet.http.HttpServletResponse;
